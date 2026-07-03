@@ -1,0 +1,2 @@
+1.Mở terminal
+2.Gõ: npm run dev
